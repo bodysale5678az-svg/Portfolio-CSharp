@@ -1,5 +1,9 @@
 # 🧩 Problem Solving — C#
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![CI](https://github.com/bodysale5678az-svg/Portfolio-CSharp/actions/workflows/ci.yml/badge.svg)
+![Tests](https://img.shields.io/badge/tests-29%20passing-brightgreen?style=flat-square)
+
 A collection of **11 classic algorithm problems** in modern C#, each checked by a built-in test runner.
 
 ```
